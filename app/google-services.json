@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "274104949513",
+    "firebase_url": "https://reading-app-afcde.firebaseio.com",
+    "project_id": "reading-app-afcde",
+    "storage_bucket": "reading-app-afcde.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:274104949513:android:53eb536a5b6e7f3a9191d8",
+        "android_client_info": {
+          "package_name": "com.example.readingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "274104949513-laumpp1vhq5q4so5ir6sarh1hlmetlom.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnRETdVOJtAEPMr1AbtkBZJauyp8AM_II"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "274104949513-laumpp1vhq5q4so5ir6sarh1hlmetlom.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
